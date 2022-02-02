@@ -1,0 +1,15 @@
+Switch Game
+10
+50
+Playstation Game
+30
+75
+Xbox Game
+30
+75
+PC Game
+20
+60
+Mobile Game
+5
+30
