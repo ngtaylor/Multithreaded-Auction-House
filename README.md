@@ -18,4 +18,3 @@ Author: Nick Taylor
    updates all the clients of the new change
  - This process is synchronized to ensure a fair first come first serve bidding process
 
-# How to Run
